@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T23:40:02.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" version="20.2.4" etag="67WxdOoC_gZGiodMWQ7U" type="github"><diagram id="AJ5N0FsTtHz6JuQa7Qyq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-16T23:51:43.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="oZh9iETGemm5ZrCaq4EQ" version="20.2.4" type="github">
+  <diagram id="AJ5N0FsTtHz6JuQa7Qyq" name="페이지-1">
+    <mxGraphModel dx="834" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="20000" pageHeight="10000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4LnlQC59OmX5xS9lGpWg-1" value="LoadingActivity" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="9800" y="1440" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4LnlQC59OmX5xS9lGpWg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4LnlQC59OmX5xS9lGpWg-1">
+          <mxGeometry x="90" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
